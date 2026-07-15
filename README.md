@@ -1,4 +1,4 @@
-# 🚀 Projectile Motion Simulator
+# 🚀 Projectile Motion Graph Simulator
 
 A Python program that calculates and visualizes the motion of a projectile launched from ground level.
 
